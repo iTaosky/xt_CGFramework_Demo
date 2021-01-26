@@ -8,6 +8,9 @@ target 'xt_CGFramework_Demo' do
   # Pods for xt_CGFramework_Demo
   pod 'AFNetworking','~> 3.0.0'
   pod 'ReactiveObjC','3.1.1'
+  
+  #pod 'JCore', '2.1.4-noidfa'
+  #pod 'JPush', '3.2.4-noidfa'
 
   target 'xt_CGFramework_DemoTests' do
     # Pods for testing
