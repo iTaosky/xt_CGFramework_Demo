@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                      = 'CGFrameworkExample'
-  s.version                   = '1.0.1'
+  s.version                   = '0.0.1'
   s.summary                   = '测试 Framework'
   s.homepage                  = 'https://github.com/iTaosky/xt_CGFramework_Demo.git'
   s.license                   = { :type => 'MIT', :file => 'LICENSE' }
