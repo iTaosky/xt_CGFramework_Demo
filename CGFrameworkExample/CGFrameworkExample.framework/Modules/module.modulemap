@@ -1,0 +1,6 @@
+framework module CGFrameworkExample {
+  umbrella header "CGFrameworkExample.h"
+
+  export *
+  module * { export * }
+}
