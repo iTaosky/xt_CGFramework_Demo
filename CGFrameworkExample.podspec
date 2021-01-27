@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target     = '10.0'
   s.source_files = 'CGFrameworkExample/CGFrameworkExample/*.{h,m}'
   s.requires_arc = true
-  s.vendored_framework   = 'CGFrameworkExample/CGFrameworkExample.framework'
+  s.vendored_frameworks   = 'CGFrameworkExample/CGFrameworkExample.framework'
   s.frameworks = "Foundation", "UIKit"
   # 依赖库
   s.dependency 'AFNetworking','~> 3.0.0' 
